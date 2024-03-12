@@ -1,0 +1,6 @@
+streamlit
+langchain.agent
+langchain.chat_models
+langchain.chains.conversation.memory
+transformers
+langchain.tools
